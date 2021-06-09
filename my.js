@@ -1,6 +1,6 @@
 function Yes(){
-    alert("Linh già liu liu")
+    alert("HIHi toàn sẽ ko làm nữa âu")
 }
 function no(){
-    alert("Láo riết quen,kkk")
+    alert("Thôi tha lỗi đi")
 }
